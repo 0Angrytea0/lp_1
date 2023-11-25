@@ -1,6 +1,9 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9310917&assignment_repo_type=AssignmentRepo)
 # Logic Programming Lab 1: Lists
 
+# 1 лаба по логпрогу репа с верным дедлайном
+https://github.com/MAILabs-Classes-2023/1-0Angrytea0/blob/main/REPORT.md 
+
 **Цель работы**: Первоначальное ознакомление с выбранной системой программирования на языке Пролог, реализация предикатов обработки числовых и символьных списков, совершение запросов к реляционному представлению данных о предметной области.
 
 [Отчет](REPORT.md)
